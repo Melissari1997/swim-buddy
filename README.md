@@ -1,8 +1,10 @@
 # Swim Buddy
 
 ## Introduction
-Swim Buddy is a simple chatbot trained on a self written document about swimming training concept. 
+Swim Buddy is a simple chatbot trained on a self written document about swimming training concepts. 
 This project is for educational purposes only and can be easily extended and improved.
+
+
 ![Alt text](images/bot_intro.png)
 ## Setup
 1. **Install the dependencies:
